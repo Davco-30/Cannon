@@ -7,7 +7,7 @@ Exercises
 3. Apply gravity to the targets.
 4. Change the speed of the ball.
 
-mi cambio
+David Alonso Chang Ortega A01658631
 """
 
 from random import randrange

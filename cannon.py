@@ -7,6 +7,7 @@ Exercises
 3. Apply gravity to the targets.
 4. Change the speed of the ball.
 
+David Alonso Chang Ortega A01658631
 Emmanuel Cruz Durán A01658410 - "Velocidades aumentadas"
 """
  
